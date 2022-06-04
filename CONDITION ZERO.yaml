@@ -1,0 +1,15 @@
+ModificationType: Mod
+Name: Condition Zero
+Version: 0.915
+SimpleDownloadLink: ''
+UIImageSourceLink: https://i.imgur.com/hYl87tV.jpg
+DiscordLink: https://discord.gg/7NsTfDD
+ModDBLink: https://www.moddb.com/mods/command-and-conquer-condition-zero
+NewsLink: ''
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: conditionzero
+S3FolderName: mod
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
