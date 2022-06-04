@@ -9,7 +9,7 @@ NewsLink: ''
 DependenceName: ''
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: conditionzero
-S3FolderName: mod
+S3FolderName: Mod
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
