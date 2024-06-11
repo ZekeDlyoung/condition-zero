@@ -12,4 +12,5 @@ S3BucketName: conditionzero
 S3FolderName: Mod
 S3HostPublicKey: ''
 S3HostSecretKey: ''
-NetworkInfo: ''
+NetworkInfo: https://www.moddb.com/company/no-life-studios/tutorials/how-to-play-nls-mods-online
+SupportLink: https://ko-fi.com/nolifestudios
